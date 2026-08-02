@@ -7,7 +7,7 @@ class Solution {
         rotate(nums,k,n-1);
     
     }
-     private void rotate(int[] nums,int i ,int j){
+      void rotate(int[] nums,int i ,int j){
         while(i<j){
             int temp=nums[i];
             nums[i]=nums[j];
