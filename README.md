@@ -74,3 +74,19 @@ I am solving LeetCode problems using **Java** and organizing my progress topic-w
 ## 🎯 Goal
 
 Solve LeetCode problems consistently and improve my **DSA & problem-solving skills**.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Radhik5v3/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Radhik5v3/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Radhik5v3/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+<!---LeetCode Topics End-->
