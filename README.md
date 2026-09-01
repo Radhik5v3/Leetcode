@@ -144,4 +144,20 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2469-convert-the-temperature](https://github.com/Radhik5v3/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/Radhik5v3/Leetcode/tree/main/0112-path-sum/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/Radhik5v3/Leetcode/tree/main/0112-path-sum/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/Radhik5v3/Leetcode/tree/main/0112-path-sum/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/Radhik5v3/Leetcode/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
