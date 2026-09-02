@@ -82,6 +82,7 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Radhik5v3/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Radhik5v3/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Radhik5v3/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +145,7 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2469-convert-the-temperature](https://github.com/Radhik5v3/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Radhik5v3/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
