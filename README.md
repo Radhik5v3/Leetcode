@@ -145,6 +145,7 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Radhik5v3/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Radhik5v3/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Radhik5v3/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Tree
@@ -171,4 +172,12 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Radhik5v3/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Radhik5v3/Leetcode/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Radhik5v3/Leetcode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
