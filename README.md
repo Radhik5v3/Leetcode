@@ -82,6 +82,7 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Radhik5v3/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Radhik5v3/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2974-minimum-number-game](https://github.com/Radhik5v3/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Radhik5v3/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -122,6 +123,7 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Radhik5v3/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [2974-minimum-number-game](https://github.com/Radhik5v3/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,8 +178,13 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Radhik5v3/Leetcode/tree/main/0258-add-digits/) | Easy |
+| [2974-minimum-number-game](https://github.com/Radhik5v3/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Radhik5v3/Leetcode/tree/main/0258-add-digits/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2974-minimum-number-game](https://github.com/Radhik5v3/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 <!---LeetCode Topics End-->
