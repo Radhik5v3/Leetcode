@@ -151,6 +151,7 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Radhik5v3/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Radhik5v3/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Radhik5v3/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Radhik5v3/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
