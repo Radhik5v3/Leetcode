@@ -82,6 +82,7 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Radhik5v3/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Radhik5v3/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Radhik5v3/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2974-minimum-number-game](https://github.com/Radhik5v3/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Radhik5v3/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
@@ -104,6 +105,7 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | [0387-first-unique-character-in-a-string](https://github.com/Radhik5v3/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Radhik5v3/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Radhik5v3/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Radhik5v3/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
