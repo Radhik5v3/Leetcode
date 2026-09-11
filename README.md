@@ -85,6 +85,7 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Radhik5v3/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Radhik5v3/Leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/Radhik5v3/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Radhik5v3/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Radhik5v3/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -115,6 +116,7 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | [0383-ransom-note](https://github.com/Radhik5v3/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Radhik5v3/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Radhik5v3/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Radhik5v3/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,4 +196,12 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2974-minimum-number-game](https://github.com/Radhik5v3/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Radhik5v3/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Radhik5v3/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
