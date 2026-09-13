@@ -162,18 +162,22 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Radhik5v3/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/Radhik5v3/Leetcode/tree/main/0112-path-sum/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Radhik5v3/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/Radhik5v3/Leetcode/tree/main/0112-path-sum/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Radhik5v3/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/Radhik5v3/Leetcode/tree/main/0112-path-sum/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Radhik5v3/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/Radhik5v3/Leetcode/tree/main/0112-path-sum/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
