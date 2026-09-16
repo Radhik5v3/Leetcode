@@ -100,6 +100,7 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | [0020-valid-parentheses](https://github.com/Radhik5v3/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Radhik5v3/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Radhik5v3/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/Radhik5v3/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Radhik5v3/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Radhik5v3/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Radhik5v3/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -154,6 +155,7 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Radhik5v3/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/Radhik5v3/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Radhik5v3/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Radhik5v3/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -193,6 +195,7 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Radhik5v3/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/Radhik5v3/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [2974-minimum-number-game](https://github.com/Radhik5v3/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 ## Number Theory
@@ -215,4 +218,8 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Radhik5v3/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/Radhik5v3/Leetcode/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
