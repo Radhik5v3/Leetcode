@@ -160,6 +160,7 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | [0067-add-binary](https://github.com/Radhik5v3/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0202-happy-number](https://github.com/Radhik5v3/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/Radhik5v3/Leetcode/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/Radhik5v3/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Radhik5v3/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Radhik5v3/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2652-sum-multiples](https://github.com/Radhik5v3/Leetcode/tree/main/2652-sum-multiples/) | Easy |
