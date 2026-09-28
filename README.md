@@ -110,6 +110,7 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | [0383-ransom-note](https://github.com/Radhik5v3/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Radhik5v3/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1446-consecutive-characters](https://github.com/Radhik5v3/Leetcode/tree/main/1446-consecutive-characters/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Radhik5v3/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Radhik5v3/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Radhik5v3/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Radhik5v3/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -199,10 +200,12 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Radhik5v3/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Radhik5v3/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Radhik5v3/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Radhik5v3/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
