@@ -81,6 +81,7 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Radhik5v3/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0136-single-number](https://github.com/Radhik5v3/Leetcode/tree/main/0136-single-number/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Radhik5v3/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Radhik5v3/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Radhik5v3/Leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
@@ -236,6 +237,7 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Radhik5v3/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0136-single-number](https://github.com/Radhik5v3/Leetcode/tree/main/0136-single-number/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
