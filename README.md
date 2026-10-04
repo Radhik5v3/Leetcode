@@ -82,6 +82,7 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Radhik5v3/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0136-single-number](https://github.com/Radhik5v3/Leetcode/tree/main/0136-single-number/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Radhik5v3/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Radhik5v3/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Radhik5v3/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Radhik5v3/Leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
@@ -94,6 +95,7 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Radhik5v3/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0202-happy-number](https://github.com/Radhik5v3/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Radhik5v3/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Radhik5v3/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Radhik5v3/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -139,6 +141,7 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Radhik5v3/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Radhik5v3/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/Radhik5v3/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
