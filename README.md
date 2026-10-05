@@ -253,4 +253,8 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Radhik5v3/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0584-find-customer-referee](https://github.com/Radhik5v3/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
 <!---LeetCode Topics End-->
