@@ -85,6 +85,7 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | [0977-squares-of-a-sorted-array](https://github.com/Radhik5v3/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Radhik5v3/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Radhik5v3/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Radhik5v3/Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Radhik5v3/Leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/Radhik5v3/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Radhik5v3/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -174,6 +175,7 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Radhik5v3/Leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Radhik5v3/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Radhik5v3/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Radhik5v3/Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/Radhik5v3/Leetcode/tree/main/2652-sum-multiples/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Radhik5v3/Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Radhik5v3/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
