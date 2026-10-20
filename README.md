@@ -88,6 +88,7 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Radhik5v3/Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Radhik5v3/Leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/Radhik5v3/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
+| [3024-type-of-triangle](https://github.com/Radhik5v3/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Radhik5v3/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Radhik5v3/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
@@ -144,6 +145,7 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | [0242-valid-anagram](https://github.com/Radhik5v3/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Radhik5v3/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/Radhik5v3/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
+| [3024-type-of-triangle](https://github.com/Radhik5v3/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +179,7 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Radhik5v3/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Radhik5v3/Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/Radhik5v3/Leetcode/tree/main/2652-sum-multiples/) | Easy |
+| [3024-type-of-triangle](https://github.com/Radhik5v3/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Radhik5v3/Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Radhik5v3/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Tree
@@ -267,4 +270,8 @@ Solve LeetCode problems consistently and improve my **DSA & problem-solving skil
 | [1527-patients-with-a-condition](https://github.com/Radhik5v3/Leetcode/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1683-invalid-tweets](https://github.com/Radhik5v3/Leetcode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Radhik5v3/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3024-type-of-triangle](https://github.com/Radhik5v3/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 <!---LeetCode Topics End-->
